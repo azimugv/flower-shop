@@ -181,3 +181,17 @@ padding: 100px 250px;
 .deal-img{
     width: 100%;
 }
+
+/* Social/Instagram */
+
+.instagram-post-container{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: space-between;
+    margin: 48px 0px 128px;
+}
+
+.instagram-post>img{
+    width: 100%;
+}
