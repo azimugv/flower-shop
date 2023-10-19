@@ -10,6 +10,7 @@ header {
     align-items: center;
     justify-content: space-around;
     padding: 50px 240px;
+    background: rgba(229, 84, 115, 0.10);
 }
 
 .banner-title {
